@@ -33,6 +33,10 @@ cd chatbot-server
 ```bash
 python3 -m venv venv
 ```
+### 4. Install google-generativeai
+```bash
+pip install google-generativeai
+```
 ### 4.Activate the virtual environment
 ```bash
 source venv/bin/activate
