@@ -37,14 +37,14 @@ python3 -m venv venv
 ```bash
 pip install google-generativeai
 ```
-### 4.Activate the virtual environment
+### 5.Activate the virtual environment
 ```bash
 source venv/bin/activate
 ```
-### 5. Install dependencies
+### 6. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 6. Add your Gemini API key
+### 7. Add your Gemini API key
 ```bash
 GEMINI_API_KEY=your-api-key-here
