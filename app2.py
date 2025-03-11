@@ -3,14 +3,11 @@ import google.generativeai as genai
 from flask import Flask, request, jsonify, render_template
 from dotenv import load_dotenv
 
-# Load API key from .env file
 load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-# Initialize Google Gemini AI
 genai.configure(api_key=GEMINI_API_KEY)
 
-# Flask App
 app = Flask(__name__)
 
 @app.route("/")
