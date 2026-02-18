@@ -8,7 +8,7 @@ This project is a chatbot application that interacts with users through a web in
 
 - Frontend: HTML, CSS, and JavaScript to create a clean and interactive chatbot UI.
 - Backend: A Flask server that processes user inputs and fetches responses from the Google Gemini API.
-- Real-time message generation: Chat with the AI in real-time as the backend dynamically provides responses.
+- Real-time message generation: Chat with the AI in real time as the backend dynamically provides responses.
 - User friendly interface: Easy to use chat interface with a responsive design.
 
 ## Tech Stack
@@ -16,7 +16,7 @@ This project is a chatbot application that interacts with users through a web in
 This project uses several open-source technologies to deliver its functionality:
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Flask (Python)
+- **Backend**: Flask
 - **AI**: Google Gemini API
 
 ## Installation
