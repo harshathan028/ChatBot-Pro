@@ -20,6 +20,7 @@ This project uses several open-source technologies to deliver its functionality:
 - **AI**: Google Gemini API
 
 ## Installation
+Installation
 
 ### 1. Clone the repository
 ```bash
